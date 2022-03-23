@@ -1,4 +1,4 @@
-# Project Proposal 1: Wordle copy
+# Project Proposal Globle Bone copy
 
 ## GUI Mockup #1
 
